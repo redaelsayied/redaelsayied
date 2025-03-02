@@ -1,6 +1,5 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Reda%20ElSayed&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=white"  width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Reda%20Elsayed&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=white"  width="100%" alt="Header"/>
 </div>
 
 <h3 align="center">
@@ -31,6 +30,7 @@ var reda = new Developer
     Passions = new[] { "Backend Development", "Problem Solving", "Team Leadership" },
     CurrentlyLearning = "Advanced Software Architecture Patterns"
 };
+
 ```
 
 ## 🛠️ Technical Skills
@@ -78,10 +78,14 @@ var reda = new Developer
 
 ## 📊 GitHub Stats
 
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=redaelsayied&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=redaelsayied&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=redaelsayied&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" />
+    <img src="https://streak-stats.demolab.com?user=redaelsayied&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </picture>
 </div>
+
 
 <div align="center">
 <picture>
@@ -98,5 +102,5 @@ var reda = new Developer
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="Footer" />
 </div>
