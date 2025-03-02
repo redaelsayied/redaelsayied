@@ -81,8 +81,11 @@ Hello! 🙋 My Name is Reda  <img src="https://media.giphy.com/media/hvRJCLFzcas
 
 ###
 
-<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/redaelsayied/redaelsayied/blob/output/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/redaelsayied/redaelsayied/blob/output/dist/github-snake.svg" />
+  <img alt="GitHub Snake Animation" src="https://github.com/redaelsayied/redaelsayied/blob/output/dist/github-snake.svg" />
+</picture>
 
-<img src="https://raw.githubusercontent.com/redaelsayied/redaelsayied/output/snake.svg" alt="Snake animation" />
 
 ###
