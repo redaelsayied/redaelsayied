@@ -105,7 +105,7 @@ var reda = new Developer
 
 ---
 
-<h3 align="center">💬 Let's connect and create something amazing together! 💬</h3>
+<h3 align="center">🤝 Let's connect and create something amazing together! 💫</h3>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="Footer" />
