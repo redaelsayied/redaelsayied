@@ -90,8 +90,8 @@ var reda = new Developer
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=redaelsayied&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=redaelsayied&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" />
-    <img src="https://streak-stats.demolab.com?user=redaelsayied&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=redaelsayied&theme=default&date_format=M%20j%5B%2C%20Y%5D" />
+    <img src="https://streak-stats.demolab.com?user=redaelsayied&theme=default&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </picture>
 </div>
 
