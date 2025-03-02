@@ -1,12 +1,25 @@
-- name: Setup Git
-  run: |
-    git config --global user.name "github-actions"
-    git config --global user.email "github-actions@github.com"
-    git fetch --unshallow  # Ensure all branches are available
-    git checkout output || git checkout -b output  # Switch to output branch
+name: Generate Snake Animation
 
-- name: Commit and Push Changes
-  run: |
-    git add dist/snake.svg
-    git commit -m "Updated snake animation" || echo "No changes to commit"
-    git push origin output
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every day at midnight
+  workflow_dispatch:  # Allows manual execution
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg
+
+      - name: Commit and Push Snake Animation
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update Snake animation"
+          file_pattern: "dist/snake.svg"
