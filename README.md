@@ -9,29 +9,80 @@ Hello! 🙋 My Name is Reda  <img src="https://media.giphy.com/media/hvRJCLFzcas
 <a href=https://www.linkedin.com/in/redaelsayied/><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&width=435&lines=I+am+a+Computer+Science+student.;Welcome+To+My+GitHub+Profile+%E2%99%A5." alt="Typing SVG" /></a>
 </p> 
 
--👨‍🎓 I am a passionate Computer Science student with a keen interest in software development.       
--🎓 Currently pursuing my degree in Computer Science.  
--👨‍💻 I have been exposed to a wide range of subjects, including OOP, data structures, algorithms,design patterns and programming languages like c/c++ Java and Python.
+### About Me
+🎓 Computer Science student at Zagazig University  
+👨‍💻 .NET backend developer  
+🏆 Experienced in leadership, project management, and technical team coordination.  
+🎯 Always eager to learn, innovate, and contribute to impactful tech solutions.  
 
--📈 I enjoy tackling complex problems and collaborating with teams to create innovative solutions.   
--💪 My goal is to become a skilled software engineer and contribute to the ever-evolving tech industry.   
+<hr>
 
 ### 🔗Connect with Me :
 
-<a href="https://www.linkedin.com/in/redaelsayied/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/Redaa.elsayiedd" target="_blank"><img src="https://img.shields.io/badge/-FaceBook-385490?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://t.me/reda_elsayied" target="_blank"><img src="https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<div align="left">
+  <a href="https://www.linkedin.com/in/redaelsayed" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://t.me/reda_elsayied" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://wa.me/201065086328" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
 
+###
+<hr>
 
 <h3 align="left">🛠 Skills:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-9B4F96?style=flat&logo=csharp&logoColor=white)
 ![Object Oriented Programming](https://img.shields.io/badge/Programming%20paradigm-Object%20Oriented%20Programming-informational?style=flat&color=6aa6f8)
-![DataStructure](https://img.shields.io/badge/Data%20Structures-FF6B6B?style=flat-square&logo=treehouse&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FF6B6B?style=flat-square&logo=any&logoColor=white)
+![SOLID Design Principles](https://img.shields.io/badge/SOLID%20Design%20Principles-FF6B6B?style=flat-square&logo=any&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-FF6B6B?style=flat-square&logo=treehouse&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-0081CB?style=flat-square&logo=code&logoColor=white)
-![design patterns](https://img.shields.io/badge/Design%20Patterns-FF6B6B?style=flat-square&logo=any&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Database Fundamentals](https://img.shields.io/badge/Database%20Fundamentals-6aa6f8?style=flat&logo=database&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-3E4B5B?style=flat&logo=dot-net&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=flat&logo=dot-net&logoColor=white)
+![Building REST APIs](https://img.shields.io/badge/Building%20REST%20APIs-0078D4?style=flat&logo=dot-net&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Html](https://img.shields.io/badge/Html5-informational?style=flat&logo=Html5&logoColor=white&color=f16529)
-![Css3](https://img.shields.io/badge/Css3-informational?style=flat&logo=Css3&logoColor=white&color=264de4)
+![GitFlow](https://img.shields.io/badge/GitFlow-6aa6f8?style=flat&logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=f16529)
+![CSS3](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=264de4)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Leadership Management](https://img.shields.io/badge/Leadership%20Management-FF6B6B?style=flat-square&logo=any&logoColor=white)
+![Team Leadership](https://img.shields.io/badge/Team%20Leadership-0081CB?style=flat-square&logo=any&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-9B4F96?style=flat-square&logo=any&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 
+
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=redaelsayied&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/redaelsayied/redaelsayied/output/snake.svg" alt="Snake animation" />
+
+###
