@@ -8,7 +8,7 @@ Hello! 🙋 My Name is Reda  <img src="https://media.giphy.com/media/hvRJCLFzcas
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/redaelsayied/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&width=435&lines=Computer+Science+Student;.NET+Backend+Developer;Welcome+To+My+GitHub+Profile+%E2%99%A5." alt="Typing SVG" /></a>
+  <a href="https://www.linkedin.com/in/redaelsayied/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&width=435&lines=Computer+Science+Student;.NET+Developer;Welcome+To+My+GitHub+Profile+%E2%99%A5." alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
