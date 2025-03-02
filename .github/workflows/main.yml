@@ -1,6 +1,5 @@
 name: Generate Snake Animation
 
-# Run every 6 hours and allow manual trigger
 on:
   schedule:
     - cron: "0 */6 * * *"
@@ -10,20 +9,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Checkout the repository
-      - uses: actions/checkout@v2
-      
-      # Generate the snake animation image from your contributions graph
-      - uses: Platane/snk@v3
-        id: snake
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
-          # Use your GitHub username; you can use the context variable too.
           github_user_name: ${{ github.repository_owner }}
-          # Specify the output file; here we’re generating an SVG.
-          svg_out_path: dist/github-snake.svg
-      
-      # (Optional) Push the generated file to a branch (e.g., 'output')
-      - name: Push changes
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Push changes to output branch
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
