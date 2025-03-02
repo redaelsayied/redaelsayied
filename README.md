@@ -74,7 +74,11 @@ Hello! 🙋 My Name is Reda  <img src="https://media.giphy.com/media/hvRJCLFzcas
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=redaelsayied&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=redaelsayied&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=redaelsayied&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" />
+    <img src="https://streak-stats.demolab.com?user=redaelsayied&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" alt="streak graph" />
+  </picture>
 </div>
 
 ###
@@ -86,7 +90,6 @@ Hello! 🙋 My Name is Reda  <img src="https://media.giphy.com/media/hvRJCLFzcas
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/redaelsayied/redaelsayied/blob/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub Snake Animation" src="https://github.com/redaelsayied/redaelsayied/blob/output/github-contribution-grid-snake.svg" />
 </picture>
-
 
 
 ###
