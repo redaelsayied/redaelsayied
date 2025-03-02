@@ -67,7 +67,7 @@ Hello! 🙋 My Name is Reda  <img src="https://media.giphy.com/media/hvRJCLFzcas
 ![Communication](https://img.shields.io/badge/Communication-9B4F96?style=flat-square&logo=any&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 
-
+<hr>
 
 <h3 align="left">🔥   My Stats :</h3>
 
