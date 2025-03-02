@@ -21,10 +21,10 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="250"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
-
 I'm a **Computer Science** student at **Zagazig University** and a passionate **.NET backend developer**.
 With strong leadership skills and experience in project management, I excel at coordinating technical teams to deliver high-quality solutions.
+
+<img align="right" width="250"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
 
 ```csharp
 var reda = new Developer
