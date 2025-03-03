@@ -26,6 +26,7 @@ With strong leadership skills and experience in project management, I excel at c
 
 <img align="right" width="250"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
 
+
 ```csharp
 var reda = new Developer
 {
@@ -35,6 +36,7 @@ var reda = new Developer
     CurrentlyLearning = "Advanced Software Architecture Patterns"
 };
 ```
+
 
 <br clear="both"/>
 
