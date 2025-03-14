@@ -22,7 +22,7 @@
   </a>
   <br>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=redaelsayied&style=flat-square&color=blueviolet" width="170" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=redaelsayied&style=flat-square&color=blueviolet" width="165" alt="Profile views"/>
 </div>
 
 <br>
