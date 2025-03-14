@@ -8,17 +8,17 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/redaelsayied/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" width="120" height="32"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" width="100" height="26"/>
   </a>
   <a href="https://t.me/redaelsayied">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white&labelColor=229ED9" alt="Telegram" width="120" height="32"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white&labelColor=229ED9" alt="Telegram" width="100" height="26"/>
   </a>
   <a href="https://wa.me/201065086328">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white&labelColor=20BA5C" alt="WhatsApp" width="120" height="32"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white&labelColor=20BA5C" alt="WhatsApp" width="100" height="26"/>
   </a>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white&labelColor=4752C4" alt="Discord" width="120" height="32"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white&labelColor=4752C4" alt="Discord" width="100" height="26"/>
   <a href="mailto:redaelsayied.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white&labelColor=C5221F" alt="Email" width="120" height="32"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white&labelColor=C5221F" alt="Email" width="100" height="26"/>
   </a>
   <br>
   <br>
@@ -27,16 +27,14 @@
 
 <br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="380" alt="Coding Animation"/>
-</div>
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<table border="0">
- <tr>
-   <td width="50%">
-      <div>
+I'm a **Computer Science** student at **Zagazig University** and a passionate **.NET backend developer**.
+With strong leadership skills and experience in project management, I excel at coordinating technical teams to deliver high-quality solutions.
+
+<img align="right" width="225"  src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Coding GIF"/>
+
 
 ```csharp
 var reda = new Developer
@@ -47,17 +45,6 @@ var reda = new Developer
     CurrentlyLearning = "Advanced Software Architecture Patterns"
 };
 ```
-
-</div>
-    </td>
-    <td width="50%">
-      <p>
-        I'm <b></b>Reda Elsayed</b> <b>a Computer Science</b> student at <b>Zagazig University</b> and a passionate .NET backend developer. I enjoy building efficient, scalable applications and solving complex problems. With strong leadership and project management skills, I excel in guiding teams to deliver high-quality software solutions.
-      </p>
-    </td>
-    
- </tr>
-</table>
 
 <br clear="both"/>
 
