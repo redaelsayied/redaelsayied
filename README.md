@@ -1,31 +1,42 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Reda%20Elsayed&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=white" width="100%" alt="Header"/>
-</div>
-
-<h1 align="center">✨ Welcome to My GitHub Profile ✨</h1>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/redaelsayied/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&width=435&lines=My+Name+Is+Reda;Computer+Science+Student;.NET+Developer;Problem+Solver" alt="Typing SVG" /></a>
-</p>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/redaelsayied/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://t.me/reda_elsayied"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://wa.me/201065086328"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=250&section=header&text=Reda%20Elsayed&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=white&desc=Every%20bug%20is%20a%20lesson;&descAlignY=55&descSize=20" width="100%" alt="Header"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=redaelsayied&style=flat-square&color=blueviolet" alt="Profile views"/>
+  <a href="https://www.linkedin.com/in/redaelsayied/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=500&lines=Computer+Science+Student;.NET+Backend+Developer;Problem+Solver;Team+Leader" alt="Typing SVG" /></a>
 </div>
 
-## 👨‍💻 About Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/redaelsayied/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" width="120" height="32"/>
+  </a>
+  <a href="https://t.me/redaelsayied">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white&labelColor=229ED9" alt="Telegram" width="120" height="32"/>
+  </a>
+  <a href="https://wa.me/201065086328">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white&labelColor=20BA5C" alt="WhatsApp" width="120" height="32"/>
+  </a>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white&labelColor=4752C4" alt="Discord" width="120" height="32"/>
+  <a href="mailto:redaelsayied.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white&labelColor=C5221F" alt="Email" width="120" height="32"/>
+  </a>
+  <br>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=redaelsayied&style=flat-square&color=blueviolet" width="175" alt="Profile views"/>
+</div>
 
-I'm a **Computer Science** student at **Zagazig University** and a passionate **.NET backend developer**.
-With strong leadership skills and experience in project management, I excel at coordinating technical teams to deliver high-quality solutions.
+<br>
 
-<img align="right" width="225"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="380" alt="Coding Animation"/>
+</div>
 
+<h2 align="center">👨‍💻 About Me</h2>
+
+<table border="0">
+ <tr>
+   <td width="50%">
+      <div>
 
 ```csharp
 var reda = new Developer
@@ -37,10 +48,20 @@ var reda = new Developer
 };
 ```
 
+</div>
+    </td>
+    <td width="50%">
+      <p>
+        I'm <b></b>Reda Elsayed</b> <b>a Computer Science</b> student at <b>Zagazig University</b> and a passionate .NET backend developer. I enjoy building efficient, scalable applications and solving complex problems. With strong leadership and project management skills, I excel in guiding teams to deliver high-quality software solutions.
+      </p>
+    </td>
+    
+ </tr>
+</table>
 
 <br clear="both"/>
 
-## 🛠️ Technical Skills
+<h2 align="center">🛠️ Technical Skills</h2>
 
 <div>
 
@@ -91,9 +112,9 @@ var reda = new Developer
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=redaelsayied&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=redaelsayied&theme=default&date_format=M%20j%5B%2C%20Y%5D" />
-    <img src="https://streak-stats.demolab.com?user=redaelsayied&theme=default&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=redaelsayied&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=redaelsayied&theme=default&date_format=M%20j%5B%2C%20Y%5D" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=redaelsayied&theme=default&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </picture>
 </div>
 
@@ -107,8 +128,73 @@ var reda = new Developer
 
 ---
 
-<h3 align="center">🤝 Let's connect and create something amazing together! 💫</h3>
+
+<h2 align="center">🚀 Newst Projects</h2>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="Footer" />
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">E-Commerce Platform</h3>
+        <div align="center">
+          <a href="https://github.com/redaelsayied/ecommerce-platform" target="_blank">
+            <img src="https://img.shields.io/badge/Code-4B32C3?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+          </a>
+          <br>
+          <p>A full-featured e-commerce backend built with ASP.NET Core, implementing clean architecture, authentication, and payment processing.</p>
+          <p><strong>Tech:</strong> C#, ASP.NET Core, Entity Framework, SQL Server</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Task Management System</h3>
+        <div align="center">
+          <a href="https://github.com/redaelsayied/task-management" target="_blank">
+            <img src="https://img.shields.io/badge/Code-4B32C3?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+          </a>
+          <br>
+          <p>A task management API with user authentication, task assignment, and progress tracking features.</p>
+          <p><strong>Tech:</strong> C#, .NET 6, Entity Framework Core, JWT</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h2 align="center">🎓 Education & Certifications</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h3>📚 Bachelor of Science in Computer Science</h3>
+        <p>Zagazig University</p>
+        <p><em>Expected Graduation: 2025</em></p>
+      </td>
+      <td>
+        <h3>🏆 Certifications</h3>
+        <ul>
+          <li>Microsoft Certified: Azure Developer Associate</li>
+          <li>ASP.NET Core MVC Professional</li>
+          <li>Software Architecture Fundamentals</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+<h2 align="center">🤝 Let's connect and create something amazing together! 💫</h2>
+  <p>I'm always open to discussing new projects, innovative ideas, or opportunities to collaborate.</p>
+  <a href="mailto:reda.elsayied@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/redaelsayied/">
+    <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:8A2BE2&height=120&section=footer" width="100%" alt="Footer" />
 </div>
