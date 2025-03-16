@@ -172,7 +172,7 @@ var reda = new Developer
 <div align="center">
 <h2 align="center">🤝 Let's connect and create something amazing together! 💫</h2>
   <p>I'm always open to discussing new projects, innovative ideas, or opportunities to collaborate.</p>
-  <a href="mailto:reda.elsayied@gmail.com">
+  <a href="mailto:redaelsayied.work@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/redaelsayied/">
