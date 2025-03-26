@@ -27,6 +27,9 @@
 
 <br>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%">
+</div>
 
 <h2 align="center">👨‍💻 About Me</h2>
 
