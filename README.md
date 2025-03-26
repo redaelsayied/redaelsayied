@@ -49,7 +49,9 @@ var reda = new Developer
 };
 ```
 
-<br clear="both"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%">
+</div>
 
 <h2 align="center">🛠️ Technical Skills</h2>
 
@@ -98,6 +100,10 @@ var reda = new Developer
 
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%">
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -118,6 +124,9 @@ var reda = new Developer
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%">
+</div>
 
 <h2 align="center">🚀 Newst Projects</h2>
 
@@ -150,6 +159,10 @@ var reda = new Developer
   </table>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%">
+</div>
+
 <h2 align="center">🎓 Education & Certifications</h2>
 
 <div align="center">
@@ -170,6 +183,10 @@ var reda = new Developer
       </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%">
 </div>
 
 <div align="center">
